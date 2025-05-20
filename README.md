@@ -8,10 +8,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">💻 Transição para Desenvolvimento Full Stack <br> processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Engenheiro de Software <br> | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python |  MongoDB  | NodeJs I  MySQL  I Django I Flesk I Docker <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
