@@ -42,20 +42,7 @@
 
 ## 📫 Contact
 
-<div align="left">
-   <a href="https://www.linkedin.com/in/pedro-henrique-ancelotti9a7134260/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="60" alt="linkedin logo">
-   </a>
-
-  
-  <img width="20" />
-  <a href="mailto:pedroh.moliveira20@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" height="60" alt="gmail logo" />
-    
-  <img width="20" />
-    <a href="https://www.instagram.com/ancelott1/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="60" alt="Instagram logo" />
-  </a>
+ [![My Skills](https://skillicons.dev/icons?i=Instagram,linkedin,gmail&theme=dark&perline=15)](https://skillicons.dev)
 </div>
 
 ---
