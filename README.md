@@ -42,7 +42,7 @@
 
 ## 📫 Contact
 
- [![My Skills](https://skillicons.dev/icons?i=Instagram,linkedin,gmail&theme=dark&perline=15)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=Instagram,linkedinstagram,gmail&theme=dark&perline=15)](https://skillicons.dev)
 </div>
 
 ---
