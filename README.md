@@ -46,6 +46,7 @@
 
 
 ---
+![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})
 
 ## 📊 GitHub Stats
 
