@@ -47,12 +47,6 @@
 
 ---
 
-## 📢 Welcome to my Server
-
-[![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
-
----
-
 
 ## 📊 GitHub Stats
 
