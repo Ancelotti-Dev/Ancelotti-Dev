@@ -42,7 +42,7 @@
 
  [![My Contact](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://www.linkedin.com/in/pedro-henrique-ancelotti9a7134260/)&nbsp;&nbsp;
  [![My Contact](https://skillicons.dev/icons?i=instagram&theme=dark&perline=15)](https://www.instagram.com/ancelott1/)&nbsp;&nbsp;
- [![My Contact](https://skillicons.dev/icons?i=gmail&theme=dark&perline=15)](malito:pedroh.moliveira20@gmail.com)
+
 
 
 ---
